@@ -2,6 +2,7 @@
 
 # Table of contents
 1. [Git workflow](#lab-01-introduction-to-git-workflow)
+This is ready for primetime!
 
 # Lab 01: Introduction to Git workflow
 
